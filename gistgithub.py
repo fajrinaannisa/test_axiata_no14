@@ -4,6 +4,8 @@ import time
 import random
 import string
 
+#coba diubah
+
 #driver = webdriver.Chrome()
 driver = webdriver.Chrome('./chromedriver')
 driver.maximize_window()
